@@ -17,10 +17,9 @@ Follow these instructions to get a copy of the project up and running on your lo
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/0bese/fhir-mcp.git
     cd fhir-mcp
     ```
-    *(Replace `<repository-url>` with the actual URL of this repository.)*
 
 2.  **Create and activate a virtual environment:**
 
@@ -28,7 +27,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
     ```bash
     # Create the virtual environment
-    python -m venv .venv
+    uv venv
 
     # Activate the virtual environment
     # On macOS and Linux:
