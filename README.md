@@ -1,6 +1,6 @@
-# Mock FHIR Server
+# Mock Remote FHIR MCP
 
-This project is a mock FHIR server. It is **not intended for public use**.
+This project is a mock remote FHIR mcp. It is **not intended for production use**.
 
 ## Getting Started
 
